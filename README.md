@@ -14,7 +14,6 @@ Spam detection is a common problem in the domain of Natural Language Processing 
 
 - `Spam_Mail_Prediction.ipynb` – Jupyter Notebook containing the full ML pipeline for spam detection
 - `README.md` – Project documentation
-- `requirements.txt` – Python dependencies list
 
 ---
 
